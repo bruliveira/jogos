@@ -1,0 +1,27 @@
+Algumas coisas uteis:
+
+Crie um ambiente virtual:
+ python -m venv venv
+ 
+Ativação: 
+No Linux:
+source venv/bin/activate
+
+No windows:
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+.\venv\bin\activate
+
+Instalar dependências:
+pip install -r requirements.txt
+
+Executar:
+python main.py
+
+
+Site útil:
+https://docs.python.org/pt-br/3/library/venv.html
+
+
+
+LINK DE UM VÍDEO DO JOGO:
+https://youtu.be/VBjk9tLjr3s
